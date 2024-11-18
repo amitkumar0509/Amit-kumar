@@ -1,1 +1,0 @@
-import geometricmean(a,b)
