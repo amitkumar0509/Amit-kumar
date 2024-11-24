@@ -12,6 +12,6 @@ def find_armstrong_numbers(start, end):
 
 
 start = 1
-end = 500
+end = 10000
 result = find_armstrong_numbers(start, end)
 print(f"Armstrong numbers between {start} and {end}: {result}")
