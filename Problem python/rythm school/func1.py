@@ -11,5 +11,3 @@ def product(A,b):
     return A*b
 result = product(2,3)
 print(result)
-
-Q3 
