@@ -1,3 +1,8 @@
-def get_detail_student(self, student_id):
-        if student_id in self.students:
-            return str(self.students[student_id])
+x = []
+# for i in range(len(list)):
+#     if i==0:
+#         x.append(list[-1]) #x = [["a","b"]]
+#         continue
+# else:
+#     x.append(list[0:len(list)-1])  #x = [["a","b"],2]
+# print(x)
