@@ -2,6 +2,6 @@ from plyer import notification
 
 notification.notify(
     title="Test Notification",
-    message="This is a notification from Plyer.",
+    message="HII chandermani .",
     app_name="Plyer Test"
 )
